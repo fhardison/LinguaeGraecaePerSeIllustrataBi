@@ -1,0 +1,212 @@
+002.001.h1@gr Κεφάλαιον τὸ δεύτερον
+002.001.h1@ind Pasal pertama
+
+
+002.002.h2@gr I
+002.002.h2@ind I
+
+
+002.003.001@gr ὁ Γρηγόριος ἀνὴρ Ἑλληνικός ἐστιν.
+002.003.001@ind Gregorios adalah pria Yunani.
+002.003.002@gr ἡ Εὐγενίᾱ γυνὴ Ἑλληνική ἐστιν.
+002.003.002@ind Eugenia adalah wanita Yunani.
+002.003.003@gr ὁ Ἀλέξιος παῖς Ἑλληνικός ἐστιν.
+002.003.003@ind Aleksios adalah anak.laki-laki Yunani.
+002.003.004@gr καὶ ὁ Δημήτριος παῖς Ἑλληνικός ἐστιν.
+002.003.004@ind dan Demetrios adalah anak.laki-laki.
+002.003.005@gr ἡ δὲ Εἰρήνη ἐστὶ κόρη Ἑλληνική.
+002.003.005@ind Eirene adalah anak.perumpuan Yunani.
+002.003.006@gr καὶ ἡ Σοφίᾱ ἐστὶ κόρη Ἑλληνική.
+002.003.006@ind dan Sofia adalah anak.perumpuan Yunani.
+
+
+002.004.001@gr ὁ Ἀλέξιος καὶ ὁ Δημήτριος οὐκ ἄνδρες, ἀλλὰ παῖδές εἰσιν.
+002.004.001@ind Aleksios dan Demetrios bukan pria, tapi adalah anak-anak.laki-laki.
+002.004.002@gr ἄνδρες εἰσὶ Γρηγόριος καὶ Σωσίᾱς καὶ Τροχίλος.
+002.004.002@ind pria-pria adalah(jamak) Gregorios dan Sosias dan Trochilos.
+002.004.003@gr γυναῖκές εἰσιν Εὐγενίᾱ καὶ Σύρᾱ καὶ Κίλισσα.
+002.004.003@ind Wanita-wanita adalah(jamak) Eugenia dan Sura dan Kilissa.
+002.004.004@gr ἆρα ἡ Σοφίᾱ γυνή; οὐκ ἔστιν γυνή, ἀλλὰ κόρη ἡ Σοφίᾱ.
+002.004.004@ind Apakah Sofia wanita? Tidak adalah wanita, tapi anak.perumpuan Sofia.
+
+
+002.005.001@gr Γρηγόριος, Εὐγενίᾱ, Ἀλέξιος, Δημήτριος, Εἰρήνη, Σοφίᾱ, Σωσίᾱς, Τροχίλος, Κίλισσα, ἐστὶν οἰκίᾱ Ἑλληνική.
+002.005.001@ind Gregorios, Eugenia, Aleksios, Demetrios, Eirene, Sofia, Sosias, Trochilos, Kilissa adalah keluarga Yunani.
+002.005.002@gr ὁ μὲν Γρηγόριος πατήρ ἐστιν, ἡ δὲ Εὐγενίᾱ μήτηρ ἐστίν.
+002.005.002@ind Gregorios adalah ayah, Eugenia adalah ibu adalah.
+002.005.003@gr πατὴρ Ἀλεξίου καὶ Δημητρίου ἐστὶν ὁ Γρηγόριος.
+002.005.003@ind Ayah Aleksios dan Demetrios adalah Gregorios.
+002.005.004@gr ὁ Γρηγόριος καὶ πατήρ ἐστιν τῆς Σοφίας καὶ τῆς Εἰρήνης.
+002.005.004@ind Gregorios juga adalah bapak Sofia dan Eirene.
+002.005.005@gr μήτηρ Ἀλεξίου καὶ Δημητρίου, Σοφίᾱς καὶ Εἰρήνης ἐστὶν ἡ Εὐγενίᾱ.
+002.005.005@ind Ibu Aleksios dan Demetrios, Sofia dan Eirene adalah Eugenia.
+002.005.006@gr ὁ δὲ Ἀλέξιος υἱός ἐστιν Γρηγορίου.
+002.005.006@ind Aleksios putra Gregorios.
+002.005.007@gr καὶ υἱὸς Εὐγενίᾱς ἐστὶν ὁ Ἀλέξιος.
+002.005.007@ind dan Aleksios adalah putra Eugenia 
+002.005.008@gr καὶ ὁ Δημήτριός ἐστιν υἱὸς τοῦ Γρηγορίου καὶ τῆς Εὐγενίᾱς.
+002.005.008@ind dan Demetrios adalah putra Gregorios dan Eugenia.
+
+
+002.006.001@gr τίς ἐστιν Ἀλέξιος; ὁ Ἀλέξιός ἐστι παῖς Ἑλληνικός.
+002.006.001@ind Siapa Aleksios? Aleksios adalah anak.laki-laki Yunani.
+002.006.002@gr τίς ἐστιν ὁ πατὴρ τοῦ Ἀλεξίου; Γρηγόριος ὁ πατὴρ τοῦ Ἀλεξίου ἐστίν.
+002.006.002@ind Siapa adalah bapaknya Aleksios? Gregorios adalah bapaknya Aleksios.
+002.006.003@gr τίς ἡ μήτηρ τοῦ Ἀλεξίου ἐστίν; ἡ μήτηρ τοῦ Ἀλεξίου ἐστὶν Εὐγενίᾱ.
+002.006.003@ind Siapa ibunya Aleksios adalah? Ibunya Aleksios adalah Eugenia.
+002.006.004@gr τίς Εἰρήνη ἐστίν; κόρη Ἑλληνική ἐστιν ἡ Εἰρήνη.
+002.006.004@ind Siapa Eirene? Eirene adalah Anak.perumpuan Yunani.
+002.006.005@gr τίς ἐστιν ἡ μήτηρ τῆς Εἰρήνης; Εὐγενίᾱ ἡ μήτηρ τῆς Εἰρήνης ἐστίν.
+002.006.005@ind Siapa adalah ibunya Eirene? Eugenia adalah ibunya Eirene.
+002.006.006@gr καὶ ὁ Γρηγόριος πατὴρ τῆς Εἰρήνης ἐστίν.
+002.006.006@ind Dan Gregorios adalah bapaknya Eirene.
+002.006.007@gr ἡ Εἰρήνη ἐστὶ θυγάτηρ τοῦ Γρηγορίου καὶ τῆς Εὐγενίᾱς.
+002.006.007@ind Eirene adalah putrinya Gregorios dan Eugenia.
+
+
+002.007.001@gr τίνες εἰσὶν οἱ υἱοὶ τοῦ Γρηγορίου; οἱ υἱοὶ τοῦ Γρηγορίου εἰσὶν Ἀλέξιος καὶ Δημήτριος.
+002.007.001@ind Siapa saja adalah(jamak) putra-putra Gregorios? Putra-putranya Gregorios adalah(jamak) Aleksios dan Demetrios.
+002.007.002@gr τίνες εἰσὶν αἱ θυγατέρες τῆς Εὐγενίᾱς; αἱ θυγατέρες τῆς Εὐγενίᾱς εἰσὶν Εἰρήνη καὶ Σοφίᾱ.
+002.007.002@ind Siapa saja adalah putri-putrinya Eugenia? Putri-putrinya Eugenia adalah(jamak) Eirene dan Sofia.
+002.007.003@gr Ἀλέξιος, Δημήτριος, Εἰρήνη, Σοφίᾱ εἰσὶ τέσσαρα παιδία.
+002.007.003@ind Aleksios, Demetrios, Eirene, Sofia adalah(jamak) empat anak.
+002.007.004@gr παιδία ἐστιν υἱοὶ καὶ θυγατέρες, ἢ παῖδες καὶ κόραι.
+002.007.004@ind anak-anak adalah putra-putra dan putri-putri, atau anak-anak.laki-laki dan anak-anak.perumpuan.
+002.007.005@gr ἐν τῇ οἰκίᾳ τοῦ Γρηγορίου εἰσὶ τέσσαρα παιδία, δύο υἱοὶ καὶ δύο θυγατέρες.
+002.007.005@ind Di keluarganya Gregorios adalah empat anak-anak, dua putra-putra dan dua putri-putri.
+
+
+002.008.001@gr ἆρα Σωσίᾱς υἱὸς τοῦ Γρηγορίου; ὁ Σωσίᾱς οὐκ ἔστιν υἱὸς τοῦ Γρηγορίου, ἀλλὰ δοῦλος τοῦ Γρηγορίου ἐστίν.
+002.008.001@ind Apakah Sosias putranya Gregorios? Sosias tidak adalah putranya Gregorios, tapi adalah budaknya Gregorios.
+002.008.002@gr ὁ Γρηγόριος δεσπότης τοῦ Σωσίου ἐστίν.
+002.008.002@ind Gregorios adalah tuannya Sosias.
+002.008.003@gr ὁ Γρηγόριός ἐστι δεσπότης τῶν δούλων.
+002.008.003@ind Gregorios adalah tuannya budak-budak.
+002.008.004@gr ὁ δὲ Σωσίᾱς καὶ ὁ Τροχίλος εἰσὶ δοῦλοι δύο.
+002.008.004@ind Sosias dan Trochilos adalah(jamak) dua budak.
+002.008.005@gr ὁ δὲ Γρηγόριος ἐστὶ καὶ πατὴρ παιδίων καὶ δεσπότης δούλων.
+002.008.005@ind Gregorios adalah baik ayah anak-anak maupun tuan budak-budak.
+
+
+002.009.001@gr ἆρα Κίλισσα θυγάτηρ τῆς Εὐγενίᾱς; ἡ Κίλισσα οὐκ ἔστιν θυγάτηρ τῆς Εὐγενίᾱς, ἀλλὰ δούλη τῆς Εὐγενίᾱς ἐστίν.
+002.009.001@ind Apakah Kilissa putrinya Eugenia? Kilissa tidak adalah putrinya Eugenia, tapi budak (perumpuan) Eugenia.
+002.009.002@gr ἡ δὲ Εὐγενίᾱ ἐστί δέσποινα τῆς δούλης, τῆς Κιλίσσης.
+002.009.002@ind Eugenia adalh tuannya budak, tuannya Kilissa.
+002.009.003@gr καὶ ἡ Σύρᾱ ἐστὶ δούλη.
+002.009.003@ind dan Sura adalah budak (wanita).
+002.009.004@gr καὶ ἡ Σύρᾱ καὶ ἡ Κίλισσά εἰσι δύο δοῦλαι.
+002.009.004@ind dan Sura dan Kilissa adalah dua budak.
+002.009.005@gr ἡ δὲ Εὐγενίᾱ δέσποινά ἐστι τῶν δουλῶν.
+002.009.005@ind Eugenia adalah tuannya budak-budak.
+
+
+002.010.001@gr τίνος δοῦλός ἐστι Τροχίλος; ὁ Τροχίλος τοῦ Γρηγορίου ἐστὶν δοῦλος.
+002.010.001@ind Budak siapa Trochilos? Trochilos adalah budaknya Gregorios.
+002.010.002@gr τίνος δοῦλός ἐστι Σωσίᾱς; καὶ ὁ Σωσίας τοῦ Γρηγορίου ἐστὶ δοῦλος.
+002.010.002@ind Budak siapa Sosias? Sosias juga adalah budaknya Gregorios. 
+002.010.003@gr τίνος δούλη ἐστὶ Σύρᾱ; ἡ Σύρᾱ ἐστὶ δούλη τῆς Εὐγενίᾱς.
+002.010.003@ind Budak(perumpuan) siapa Sura? Sura adalah budaknya Eugenia.
+002.010.004@gr καὶ τίνος δούλη ἐστὶ Κίλισσα; τῆς Εὐγενίᾱς ἐστὶ Κίλισσα ἡ δούλη.
+002.010.004@ind dan budak(perumpuan) siapa Kilissa? Kilissa adalah budaknya Eugenia. 
+
+
+002.011.001@gr πόσα ἔστιν παιδία ἐν τῇ οἰκίᾳ; ἔστι ἐν τῇ οἰκίᾳ τῆς Εὐγενίᾱς καὶ τοῦ Γρηγορίου τέσσαρα παιδία.
+002.011.001@ind Berapa anak-anak ada di keluarga? Di keluarganya Eugenia dan Gregorios empat anak.
+002.011.002@gr πόσοι υἱοὶ καὶ πόσαι θυγατέρες; δύο υἱοὶ καὶ δύο θυγατέρες εἰσὶν ἐν τῇ οἰκίᾳ.
+002.011.002@ind Berapa putra dan berapa putri? Dua putra dan dua putri ada di keluarga.
+002.011.003@gr πόσοι δοῦλοι ἐν τῇ οἰκίᾳ εἰσίν; ἑκατόν; οὐχ ἑκατὸν, ἀλλὰ πεντήκοντα.
+002.011.003@ind Berapa budak ada di keluarga? 100? Bukan 100, tapi 50.
+002.011.004@gr ἐν τῇ οἰκίᾳ τοῦ Γρηγορίου εἰσὶ πολλοὶ μὲν δοῦλοι, ὀλίγα δὲ παιδία.
+002.011.004@ind Di keluarganya Gregorios ada banyak budak, tapi sedikit anak.
+002.011.005@gr ὁ δὲ Γρηγόριός ἐστι κῡ́ριος πολλῶν δούλων.
+002.011.005@ind Gregorios adalah tuannya dari banyak budak.
+
+
+002.012.h2@gr II
+002.012.h2@ind II
+
+
+002.013.001@gr τὸ δύο καὶ τὸ τρεῖς, καὶ τὸ τέσσαρα, ἀριθμοί εἰσιν.
+002.013.001@ind "δύο" dan "τρεῖς", dan "τέσσαρα", adalah nomor-nomor.
+002.013.002@gr καὶ τὸ ἑκατὸν καὶ τὸ πεντήκοντά εἰσιν ἀριθμοί.
+002.013.002@ind dan "έκατὸν" dan "πεντήκοντά" adalah nomor-nomor.
+002.013.003@gr ὁ ἀριθμὸς τῶν δούλων ἔστιν πεντήκοντα.
+002.013.003@ind Nomornya budak-budak adalah 50.
+002.013.004@gr ὁ δὲ ἀριθμὸς τῶν παιδίων ἐστὶ τέσσαρα.
+002.013.004@ind Nomornya anak-anak adalah 4.
+002.013.005@gr ὁ μὲν ἀριθμὸς τῶν δούλων μέγας ἐστίν, ὁ δὲ ἀριθμὸς τῶν παιδίων μῑκρός.
+002.013.005@ind Nomornya budak-budak besar, nomornya anak-anak kecil.
+002.013.006@gr μέγας μὲν ἀριθμὸς δούλων, μῑκρὸς δὲ ἀριθμὸς παιδίων ἐν τῇ οἰκίᾳ τοῦ Γρηγορίου ἐστίν.
+002.013.006@ind Besar nomornya budak-budak, kecil nomornya anak-anak di keluarganya Gregorios.
+
+
+002.014.001@gr ὁ Γρηγόριός ἐστιν ἀνὴρ Ἑλληνικός.
+002.014.001@ind Gregorios adalah pria Yunani.
+002.014.002@gr ὁ δὲ Τροχίλος ἐστὶν ἀνὴρ Ῥωμαϊκός, ἀλλὰ δοῦλος.
+002.014.002@ind Tapi Trochilos adalah pria Romawi, tapi adalah budak.
+002.014.003@gr ὁ δὲ Σωσίᾱς ἐστὶν ἀνὴρ Συριακός, ἀνὴρ τῆς Συρίᾱς.
+002.014.003@ind Sosias adalah pria Suria, pria dari Suria.
+002.014.004@gr ὁ Γρηγόριος οἰκεῖ ἐν τῇ Συρίᾳ.
+002.014.004@ind Gregorios tinggal di Suria.
+002.014.005@gr ἡ οἰκίᾱ τοῦ Γρηγορίου ἐστὶν ἐν τῇ Συρίᾳ, ἐν τῇ Ἀντιοχείᾳ.
+002.014.005@ind Rumanya Gregorios adalah di Suria, di Antiochia.
+002.014.006@gr ἡ Ἀντιόχειά ἐστιν πόλις ἐν τῇ Συρίᾳ.
+002.014.006@ind Antiochia adalah kota di Suria.
+
+
+002.015.001@gr ἆρα μὴ ἡ Εὐγενίᾱ Συριακή; οὐ Συριακή, ἀλλὰ Ἑλληνική ἐστιν.
+002.015.001@ind Apakah Eugenia orang Suria? Bukan orang Suria, tapi (dia) adalah orang Yunani.
+002.015.002@gr ἆρα μὴ ἡ Κίλισσα Ῥωμαϊκή; οὐ Ῥωμαϊκή, ἀλλὰ Συριακή ἐστιν ἡ Κίλισσα.
+002.015.002@ind Apakah Kilissa orang Romawi? Bukan Romawi, tapi Kilissa adalah orang Suria.
+002.015.003@gr καὶ Σύρᾱ ἐστί Συριακή.
+002.015.003@ind Dan Sura adalah orang Suria.
+002.015.004@gr καὶ Κίλισσα καὶ Σύρᾱ εἰσὶ Συριακαί.
+002.015.004@ind dan Kilissa dan Sura adalah(jamak) orang Suria.
+
+
+002.016.h2@gr III
+002.016.h2@ind III
+
+
+002.017.001@gr τίς ἐστιν Μάρκος; ὁ Μάρκος ἐστὶν δεσπότης Ῥωμαϊκός.
+002.017.001@ind Siapa Markos? Markos adalah tuan Romawi.
+002.017.002@gr ὁ Μάρκος οἰκεῖ ἐν τῇ Ἀντιοχείᾳ.
+002.017.002@ind Markos tinggal di Antiochia.
+002.017.003@gr καὶ ὁ Μάρκος καὶ ὁ Γρηγόριός εἰσι δεσπόται δύο.
+002.017.003@ind dan Markos dan Gregorios adalah dua tuan.
+002.017.004@gr ὁ δὲ Σωσίᾱς ἐστί δοῦλος τοῦ Γρηγορίου.
+002.017.004@ind Sosias adalah budaknya Gregorios.
+
+
+002.018.001@gr Μαρ· τίνος δοῦλός ἐστιν Σωσίᾱς;
+002.018.001@ind Mar: Sosias adalah budak siapa?
+002.018.002@gr Γρη· ὁ Σωσίᾱς ἐστὶν δοῦλος ἐμοῦ.
+002.018.002@ind Gre: Sosias adalah budak saya.
+002.018.003@gr Μαρ· ἆρα ὁ Τροχίλος δοῦλός σου;
+002.018.003@ind Mar: Apa Trochilos budak kamu?
+002.018.004@gr Γρη· ναί, καὶ ὁ Τροχίλος ἐστὶν δοῦλός μου.
+002.018.004@ind Gre: Ya, Trochilos juga adalah budak saya.
+002.018.005@gr οἱ δοῦλοί μού εἰσιν Σωσίας καὶ Τροχίλος καὶ πολλοὶ ἄλλοι.
+002.018.005@ind Budak-budak aku adalah Sosias dan Trochilos dan banyak lain.
+002.018.006@gr Μαρ· ἆρα ἡ Σύρᾱ δούλη σου;
+002.018.006@ind Mar: Apakah Sura adalah budak(betino) kamu?
+002.018.007@gr Γρη· ναί, ἡ Σύρᾱ δούλη μού ἐστιν, καὶ ἡ Κίλισσά ἐστιν δούλη ἐμοῦ.
+002.018.007@ind Gre: Ya, Sura adalah budak(wanita) saya, dan Kilissa adalah budak(wanita) saya.
+002.018.008@gr αἱ δοῦλαί μού εἰσιν Σύρᾱ καὶ Κίλισσα καὶ πολλαὶ ἄλλαι.
+002.018.008@ind Budak-budak (wantia) saya adalah Sura dan Kilissa, dan banyak lain.
+002.018.009@gr ἡ οἰκίᾱ μού ἐστι μεγάλη.
+002.018.009@ind keluarga saya besar.
+002.018.010@gr Μαρ· πόσοι δοῦλοί εἰσιν ἐν τῇ οἰκίᾳ σου;
+002.018.010@ind Mar: Berapa budak ada di keluarga kamu?
+002.018.011@gr Γρη· πεντήκοντα δοῦλοί εἰσιν ἐν τῇ οἰκίᾳ μου.
+002.018.011@ind  Gre: 50 budak adalah(jamak) di keluarga saya.
+002.018.012@gr Μαρ· τί;
+002.018.012@ind Mar: Apa?
+002.018.013@gr Γρη· ὁ ἀριθμὸς τῶν δούλων μού ἐστιν πεντήκοντα.
+002.018.013@ind Gre: Jumlahnya budak saya adalah 50.
+002.018.014@gr Μαρ· μόνον πεντήκοντα; ὁ ἀριθμὸς τῶν δούλων σού ἐστιν μῑκρός.
+002.018.014@ind Mar: Hanya 50? Jumlahnya budak kamu adalah kecil.
+002.018.015@gr ἐν τῇ οἰκίᾳ μου ἑκατὸν δοῦλοί εἰσιν.
+002.018.015@ind Di keluarga saya adalah 100 budak.
+
+
